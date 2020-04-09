@@ -1,0 +1,53 @@
+Enter the Number of coins and defective coin weight and position
+
+100
+0
+98
+The fake coin is a position 98
+searching from 66 to 99
+searching from 88 to 99
+searching from 96 to 99
+searching from 98 to 99
+fake coin is found at position 98
+
+
+
+Enter the Number of coins and defective coin weight and position
+1000
+2
+900
+The fake coin is a position 900
+searching from 666 to 999
+searching from 888 to 999
+searching from 888 to 924
+searching from 900 to 911
+searching from 900 to 903
+searching from 900 to 900
+fake coin is found at position 900
+
+
+Enter the Number of coins and defective coin weight and position
+500
+0
+10
+The fake coin is a position 10
+searching from 0 to 165
+searching from 0 to 54
+searching from 0 to 17
+searching from 6 to 11
+searching from 10 to 11
+
+Enter the Number of coins and defective coin weight and position
+200
+2
+56
+The fake coin is a position 56
+searching from 0 to 65
+searching from 44 to 65
+searching from 51 to 57
+searching from 55 to 57
+searching from 56 to 56
+fake coin is found at position 56
+
+fake coin is found at position 10
+
